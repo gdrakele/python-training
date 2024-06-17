@@ -44,9 +44,14 @@
 
 - Simple, less "character noise"
 
+    - Hello World
+
 - Whitespace is significant
 
+    - Fibonacci
+
 - Newlines end statements, backslash is inverted semicolon ("not end of statement")
+
 
 # BKMs
 
@@ -77,6 +82,8 @@
 # Common gotchas
 
 - Mutable default values for parameters
+
+- Recursion limits
 
 # Deep dive / more advanced?
 
