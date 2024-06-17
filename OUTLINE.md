@@ -55,6 +55,8 @@
 
 # BKMs
 
+- Virtual Environments
+
 - Multi-paradigm
 
 - Comprehensions
@@ -64,6 +66,8 @@
 - Use the ecosystem
 
 # Tooling
+
+- Project Management - Poetry
 
 - Code Formatting - Black
 
