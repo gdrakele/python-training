@@ -32,6 +32,8 @@
 
 - Python is "doing high level things in C"
 
+- Ease of "exploratory coding"
+
 - Slow, but fast
 
     - "Glue" for low level libraries
@@ -39,6 +41,8 @@
     - Improved ergonomics
 
 - The Zen of Python
+
+- PEP explanation
 
 # Syntax
 
@@ -55,6 +59,8 @@
 
 # BKMs
 
+- Type Annotations
+
 - Virtual Environments
 
 - Multi-paradigm
@@ -65,9 +71,13 @@
 
 - Use the ecosystem
 
+- REPL driven development
+
 # Tooling
 
 - Project Management - Poetry
+
+- REPL - iPython
 
 - Code Formatting - Black
 
