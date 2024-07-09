@@ -9,3 +9,5 @@ Topic index for basic training
 - [Built-in Functions and Types](/basic/built-in-functions-and-types.md)
 
 - [Syntax & Data Structures](/basic/syntax-and-data-structures.md)
+
+[Back to README](/README.md)

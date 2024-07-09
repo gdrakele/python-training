@@ -2,8 +2,6 @@
 
 This document serves as a basic introduction to Python and its goals, ideals, and uses.
 
-[Back to README](/README.md)
-
 ## Table of Contents
 
 - [Origin and History](#origin-and-history)
@@ -15,6 +13,8 @@ This document serves as a basic introduction to Python and its goals, ideals, an
 - [PIP & PyPI](#pip--pypi)
 
 - [The Zen of Python](#the-zen-of-python)
+
+[Back to Basic Topics](/basic/README.md)
 
 ## Origin and History
 

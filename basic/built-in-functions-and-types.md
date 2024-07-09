@@ -6,9 +6,7 @@ For a full list of built-ins you can visit the [documentation](https://docs.pyth
 
 ## Table of Contents
 
-[Table of Contents](#table-of-contents)
-
-[Back to README](/README.md)
+[Back to Basic Topics](/basic/README.md)
 
 [Table of Contents](#table-of-contents)
 

@@ -12,9 +12,7 @@ This document introduces Python's basic syntax & data structures.
 
 - [Comprehensions](#comprehensions)
 
-[Table of Contents](#table-of-contents)
-
-[Back to README](/README.md)
+[Back to Basic Topics](/basic/README.md)
 
 ## Simple With Less "Character Noise"
 
