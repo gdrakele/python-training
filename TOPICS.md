@@ -46,6 +46,8 @@
 
 - Differences from other common languages
 
+    - No compile time type checking
+
     - Variable scope
 
     - Globals / Nonlocals
@@ -252,6 +254,4 @@
 
 - Gotchas about Types (strings are immutable/interned, etc)
 
-- Differences
-    
-    - Lack of compile time type checking
+- Decorators
