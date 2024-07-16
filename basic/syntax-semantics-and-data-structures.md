@@ -1,6 +1,6 @@
 # Basic Python Syntax & Data Structures
 
-This document introduces Python's basic syntax & data structures.
+This document introduces Python's basic syntax, semantics, and data structures.
 
 ## Table of Contents
 
