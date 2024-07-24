@@ -8,12 +8,12 @@ Topic index for intermediate training
 
 - [Type Annotations](/intermediate/type-annotations.md)
 
-- [Syntax](/intermediate/syntax-and-semantics.md)
-
-- [Classes & Object Oriented Programming](/intermediate/classes-and-object-oriented-programming.md)
+- [Syntax & Semantics](/intermediate/syntax-and-semantics.md)
 
 - [Common Gotchas](/intermediate/common-gotchas.md)
 
 - [Best Known Methods & Practices](/intermediate/best-known-methods-and-practices.md)
+
+- [Labs](/intermediate/labs.md)
 
 [Back to README](/README.md)
