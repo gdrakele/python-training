@@ -12,6 +12,14 @@ This document contains problems relevant to the knowledge learned during the int
 
 Create a type alias for JSONable types. This will require some intermediary type aliases as well as stand-in string literals due to type recursion.
 
+Start from here:
+
+```python
+JsonAtom = bool | float | int | str | None
+
+Jsonable = ...
+```
+
 [Table of Contents](#table-of-contents)
 
 [Back to Intermediate Topics](/intermediate/README.md)
