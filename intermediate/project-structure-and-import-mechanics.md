@@ -1,4 +1,4 @@
-## Project Structure & Import Mechanics
+# Project Structure & Import Mechanics
 
 This document introduces the standard structure for Python projects as well as Python's import mechanics and their ramifications.
 
