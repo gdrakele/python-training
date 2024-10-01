@@ -4,7 +4,7 @@ This document introduces some advanced concept in Python's data model.
 
 ## Table of Contents
 
-- ["Right" Binary Arithmetic Operators](#right-binary-arithmetic-operators)
+- [Reflected Operators](#reflected-operators)
 
 - [`__new__`](#__new__)
 
