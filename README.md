@@ -8,4 +8,4 @@ It is segmented into 3 "training levels: 'basic', 'intermediate', and 'advanced'
 
 - [Intermediate](/intermediate/README.md) ([VOD](https://intel-my.sharepoint.com/personal/graham_drakeley_intel_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fgraham_drakeley_intel_com%2FDocuments%2FRecordings%2FPython%20Training%20Session%202%20-%20Intermediate%20Python-20240724_121243-Meeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebe2a4184-2d18-43a7-9c06-bd603c04884d))
 
-- [Advanced](/advanced/README.md)
+- [Advanced](/advanced/README.md) ([VOD](https://intel-my.sharepoint.com/personal/graham_drakeley_intel_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fgraham_drakeley_intel_com%2FDocuments%2FRecordings%2FPython%20Training%20Session%203%20-%20Advanced%20Training-20240930_151510-Meeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E49aa872a-31db-4b9c-9d2a-50c0b672d451))
